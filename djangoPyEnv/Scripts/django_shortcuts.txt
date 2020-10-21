@@ -1,0 +1,5 @@
+ACTIVATE DJANGO VENV:
+C:\Users\15189\Desktop\python_stack\my_enviorments\djangoPyEnv\Scripts\activate
+
+DJANGO FUNDAMENTALS:
+cd C:\Users\15189\Desktop\python_stack\django\django_fundamentals
